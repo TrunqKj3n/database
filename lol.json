@@ -1,5 +1,4 @@
-[
-        {
+[{
             "name": "Aatrox",
             "hp": 580,
             "hp_gain_per_lvl": 90,
@@ -22,9 +21,9 @@
             "ability_power": 0,
             "ability_haste": 0,
             "crit": 0,
-            "images" : "https://i.imgur.com/mHvCD5F.jpg"
-        },
-        {
+            "images": "https://i.imgur.com/mHvCD5F.jpg"
+      },
+      {
             "name": "Ahri",
             "hp": 526,
             "hp_gain_per_lvl": 92,
@@ -46,9 +45,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/g5bGr95.jpg"
+      },
+      {
             "name": "Akali",
             "hp": 500,
             "hp_gain_per_lvl": 105,
@@ -70,9 +70,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/hqZ64Qx.jpg"
+      },
+      {
             "name": "Akshan",
             "hp": 560,
             "hp_gain_per_lvl": 90,
@@ -94,9 +95,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/5N7a3Ow.jpg"
+      },
+      {
             "name": "Alistar",
             "hp": 600,
             "hp_gain_per_lvl": 106,
@@ -118,9 +120,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/CpNAe32.jpg"
+      },
+      {
             "name": "Amumu",
             "hp": 615,
             "hp_gain_per_lvl": 75,
@@ -142,9 +145,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/lkbE6Am.jpg"
+      },
+      {
             "name": "Anivia",
             "hp": 480,
             "hp_gain_per_lvl": 82,
@@ -166,9 +170,10 @@
             "range": 600,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/aV0t4ze.jpg"
+      },
+      {
             "name": "Annie",
             "hp": 524,
             "hp_gain_per_lvl": 88,
@@ -190,9 +195,10 @@
             "range": 625,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/aV0t4ze.jpg"
+      },
+      {
             "name": "Aphelios",
             "hp": 530,
             "hp_gain_per_lvl": 88,
@@ -214,9 +220,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/K6l0Hh8.jpg"
+      },
+      {
             "name": "Ashe",
             "hp": 570,
             "hp_gain_per_lvl": 87,
@@ -238,9 +245,10 @@
             "range": 600,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/qgSt6xN.jpg"
+      },
+      {
             "name": "AurelionSol",
             "hp": 575,
             "hp_gain_per_lvl": 92,
@@ -262,9 +270,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/BHHmZgk.jpg"
+      },
+      {
             "name": "Azir",
             "hp": 552,
             "hp_gain_per_lvl": 92,
@@ -286,9 +295,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/ujtV77G.jpg"
+      },
+      {
             "name": "Bard",
             "hp": 560,
             "hp_gain_per_lvl": 89,
@@ -310,9 +320,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/Juf7ZMk.jpg"
+      },
+      {
             "name": "Blitzcrank",
             "hp": 583,
             "hp_gain_per_lvl": 95,
@@ -334,9 +345,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/n3u4RBz.jpg"
+      },
+      {
             "name": "Brand",
             "hp": 520,
             "hp_gain_per_lvl": 88,
@@ -358,9 +370,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/0REb7xz.jpg"
+      },
+      {
             "name": "Braum",
             "hp": 540,
             "hp_gain_per_lvl": 98,
@@ -382,9 +395,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/fUoNS38.jpg"
+      },
+      {
             "name": "Caitlyn",
             "hp": 510,
             "hp_gain_per_lvl": 93,
@@ -406,9 +420,10 @@
             "range": 650,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/osNHz6S.jpg"
+      },
+      {
             "name": "Camille",
             "hp": 576,
             "hp_gain_per_lvl": 85,
@@ -430,9 +445,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/jjuGhdk.jpg"
+      },
+      {
             "name": "Cassiopeia",
             "hp": 560,
             "hp_gain_per_lvl": 90,
@@ -454,9 +470,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/bhx5mTx.jpg"
+      },
+      {
             "name": "Cho'Gath",
             "hp": 574,
             "hp_gain_per_lvl": 80,
@@ -478,9 +495,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/dOPPAyO.jpg"
+      },
+      {
             "name": "Corki",
             "hp": 518,
             "hp_gain_per_lvl": 87,
@@ -502,9 +520,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/dswjnJQ.jpg"
+      },
+      {
             "name": "Darius",
             "hp": 582,
             "hp_gain_per_lvl": 100,
@@ -526,9 +545,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/5BwY6WT.jpg"
+      },
+      {
             "name": "Diana",
             "hp": 570,
             "hp_gain_per_lvl": 95,
@@ -550,9 +570,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/sLDoxW6.jpg"
+      },
+      {
             "name": "Dr.Mundo",
             "hp": 583,
             "hp_gain_per_lvl": 89,
@@ -574,9 +595,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/65eWpKb.jpg"
+      },
+      {
             "name": "Draven",
             "hp": 605,
             "hp_gain_per_lvl": 90,
@@ -598,9 +620,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/8pPTcB3.jpg"
+      },
+      {
             "name": "Ekko",
             "hp": 585,
             "hp_gain_per_lvl": 85,
@@ -622,9 +645,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/HwLpNAm.jpg"
+      },
+      {
             "name": "Elise",
             "hp": 555,
             "hp_gain_per_lvl": 93,
@@ -646,9 +670,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/vOMsvvV.jpg"
+      },
+      {
             "name": "Evelynn",
             "hp": 572,
             "hp_gain_per_lvl": 84,
@@ -670,9 +695,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/f7XCzdD.jpg"
+      },
+      {
             "name": "Ezreal",
             "hp": 530,
             "hp_gain_per_lvl": 88,
@@ -694,9 +720,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/vkx64dW.jpg"
+      },
+      {
             "name": "Fiddlesticks",
             "hp": 580.4,
             "hp_gain_per_lvl": 92,
@@ -718,9 +745,10 @@
             "range": 480,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/d4vKoMA.jpg"
+      },
+      {
             "name": "Fiora",
             "hp": 550,
             "hp_gain_per_lvl": 85,
@@ -742,9 +770,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/sSikqIj.jpg"
+      },
+      {
             "name": "Fizz",
             "hp": 570,
             "hp_gain_per_lvl": 98,
@@ -766,9 +795,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/5a8aE9J.jpg"
+      },
+      {
             "name": "Galio",
             "hp": 562,
             "hp_gain_per_lvl": 112,
@@ -790,9 +820,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/SpWHuEx.jpg"
+      },
+      {
             "name": "Gangplank",
             "hp": 570,
             "hp_gain_per_lvl": 90,
@@ -814,9 +845,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/UXTcqh6.jpg"
+      },
+      {
             "name": "Garen",
             "hp": 620,
             "hp_gain_per_lvl": 84,
@@ -838,9 +870,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/0M6KW3q.jpg"
+      },
+      {
             "name": "Gnar",
             "hp": 510,
             "hp_gain_per_lvl": 65,
@@ -862,9 +895,10 @@
             "range": 400,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/rTwMOv8.jpg"
+      },
+      {
             "name": "Gragas",
             "hp": 600,
             "hp_gain_per_lvl": 95,
@@ -886,9 +920,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/6rFo3bV.jpg"
+      },
+      {
             "name": "Graves",
             "hp": 555,
             "hp_gain_per_lvl": 92,
@@ -910,9 +945,10 @@
             "range": 425,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/R9Zo3w7.jpg"
+      },
+      {
             "name": "Gwen",
             "hp": 550,
             "hp_gain_per_lvl": 90,
@@ -934,9 +970,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/fotiJOM.jpg"
+      },
+      {
             "name": "Hecarim",
             "hp": 580,
             "hp_gain_per_lvl": 90,
@@ -958,9 +995,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/lrlxFbV.jpg"
+      },
+      {
             "name": "Heimerdinger",
             "hp": 488,
             "hp_gain_per_lvl": 87,
@@ -982,9 +1020,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/cTOkazG.jpg"
+      },
+      {
             "name": "Illaoi",
             "hp": 586,
             "hp_gain_per_lvl": 95,
@@ -1006,9 +1045,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/q7AdNnL.jpg"
+      },
+      {
             "name": "Irelia",
             "hp": 520,
             "hp_gain_per_lvl": 110,
@@ -1030,9 +1070,10 @@
             "range": 200,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/bu65Swo.jpg"
+      },
+      {
             "name": "Ivern",
             "hp": 585,
             "hp_gain_per_lvl": 85,
@@ -1054,9 +1095,10 @@
             "range": 475,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/aHDNTmS.jpg"
+      },
+      {
             "name": "Janna",
             "hp": 500,
             "hp_gain_per_lvl": 70,
@@ -1078,9 +1120,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/LyzChTg.jpg"
+      },
+      {
             "name": "JarvanIV",
             "hp": 570,
             "hp_gain_per_lvl": 90,
@@ -1102,9 +1145,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/sC3JCSr.jpg"
+      },
+      {
             "name": "Jax",
             "hp": 593,
             "hp_gain_per_lvl": 85,
@@ -1126,9 +1170,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/JYTnjUP.jpg"
+      },
+      {
             "name": "Jayce",
             "hp": 560,
             "hp_gain_per_lvl": 90,
@@ -1150,9 +1195,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/33YLsAa.jpg"
+      },
+      {
             "name": "Jhin",
             "hp": 585,
             "hp_gain_per_lvl": 93,
@@ -1174,9 +1220,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/bDNlrdc.jpg"
+      },
+      {
             "name": "Jinx",
             "hp": 610,
             "hp_gain_per_lvl": 86,
@@ -1198,9 +1245,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/hURWWvW.jpg"
+      },
+      {
             "name": "Kai'Sa",
             "hp": 600,
             "hp_gain_per_lvl": 88,
@@ -1222,9 +1270,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/uqKKFgF.jpg"
+      },
+      {
             "name": "Kalista",
             "hp": 534,
             "hp_gain_per_lvl": 100,
@@ -1246,9 +1295,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/S30oPA4.jpg"
+      },
+      {
             "name": "Karma",
             "hp": 534,
             "hp_gain_per_lvl": 95,
@@ -1270,9 +1320,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/Mu8bEPz.jpg"
+      },
+      {
             "name": "Karthus",
             "hp": 550,
             "hp_gain_per_lvl": 87,
@@ -1294,9 +1345,10 @@
             "range": 450,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/Ya9UUXe.jpg"
+      },
+      {
             "name": "Kassadin",
             "hp": 576,
             "hp_gain_per_lvl": 105,
@@ -1318,9 +1370,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/1cgTVEY.jpg"
+      },
+      {
             "name": "Katarina",
             "hp": 602,
             "hp_gain_per_lvl": 94,
@@ -1342,9 +1395,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/xYWtAqZ.jpg"
+      },
+      {
             "name": "Kayle",
             "hp": 600,
             "hp_gain_per_lvl": 85,
@@ -1366,9 +1420,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/KWAyYeh.jpg"
+      },
+      {
             "name": "Kayn",
             "hp": 585,
             "hp_gain_per_lvl": 85,
@@ -1390,9 +1445,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/G22Hm7Q.jpg"
+      },
+      {
             "name": "Kennen",
             "hp": 541,
             "hp_gain_per_lvl": 84,
@@ -1414,9 +1470,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/nzyZqfC.jpg"
+      },
+      {
             "name": "Kha'Zix",
             "hp": 573,
             "hp_gain_per_lvl": 85,
@@ -1438,9 +1495,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/LpXWawp.jpg"
+      },
+      {
             "name": "Kindred",
             "hp": 540,
             "hp_gain_per_lvl": 85,
@@ -1462,9 +1520,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/iBXbgPN.jpg"
+      },
+      {
             "name": "Kled",
             "hp": 340,
             "hp_gain_per_lvl": 70,
@@ -1486,9 +1545,10 @@
             "range": 250,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/V0Jz30q.jpg"
+      },
+      {
             "name": "Kled&Skaarl",
             "hp": 740,
             "hp_gain_per_lvl": 130,
@@ -1510,9 +1570,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/VwWpy5U.jpg"
+      },
+      {
             "name": "Kog'Maw",
             "hp": 565,
             "hp_gain_per_lvl": 85,
@@ -1534,9 +1595,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/tiHL3hE.jpg"
+      },
+      {
             "name": "LeBlanc",
             "hp": 528,
             "hp_gain_per_lvl": 97,
@@ -1558,9 +1620,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/l4C3A2M.jpg"
+      },
+      {
             "name": "LeeSin",
             "hp": 575,
             "hp_gain_per_lvl": 85,
@@ -1582,9 +1645,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/CiDysER.jpg"
+      },
+      {
             "name": "Leona",
             "hp": 576,
             "hp_gain_per_lvl": 87,
@@ -1606,9 +1670,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/P7NgP3n.jpg"
+      },
+      {
             "name": "Lillia",
             "hp": 580,
             "hp_gain_per_lvl": 90,
@@ -1630,9 +1695,10 @@
             "range": 325,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/R1uccqB.jpg"
+      },
+      {
             "name": "Lissandra",
             "hp": 550,
             "hp_gain_per_lvl": 90,
@@ -1654,9 +1720,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/wHm3x9u.jpg"
+      },
+      {
             "name": "Lucian",
             "hp": 571,
             "hp_gain_per_lvl": 86,
@@ -1678,9 +1745,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/X24cEbh.jpg"
+      },
+      {
             "name": "Lulu",
             "hp": 525,
             "hp_gain_per_lvl": 74,
@@ -1702,9 +1770,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/LPTwTya.jpg"
+      },
+      {
             "name": "Lux",
             "hp": 490,
             "hp_gain_per_lvl": 85,
@@ -1726,9 +1795,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/uJVdX8u.jpg"
+      },
+      {
             "name": "Malphite",
             "hp": 574,
             "hp_gain_per_lvl": 90,
@@ -1750,9 +1820,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/TdbJe0V.jpg"
+      },
+      {
             "name": "Malzahar",
             "hp": 510,
             "hp_gain_per_lvl": 87,
@@ -1774,9 +1845,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/ALpWfWl.jpg"
+      },
+      {
             "name": "Maokai",
             "hp": 565,
             "hp_gain_per_lvl": 95,
@@ -1798,9 +1870,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/XiSqCBK.jpg"
+      },
+      {
             "name": "MasterYi",
             "hp": 599,
             "hp_gain_per_lvl": 92,
@@ -1822,9 +1895,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/OlkqivQ.jpg"
+      },
+      {
             "name": "MegaGnar",
             "hp": 610,
             "hp_gain_per_lvl": 108,
@@ -1846,9 +1920,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/8SvDnkw.jpg"
+      },
+      {
             "name": "MissFortune",
             "hp": 570,
             "hp_gain_per_lvl": 93,
@@ -1870,9 +1945,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/we1snfX.jpg"
+      },
+      {
             "name": "Mordekaiser",
             "hp": 575,
             "hp_gain_per_lvl": 90,
@@ -1894,9 +1970,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/K08002e.jpg"
+      },
+      {
             "name": "Morgana",
             "hp": 560,
             "hp_gain_per_lvl": 90,
@@ -1918,9 +1995,10 @@
             "range": 450,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/9Dt30J9.jpg"
+      },
+      {
             "name": "Nami",
             "hp": 490,
             "hp_gain_per_lvl": 74,
@@ -1942,9 +2020,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/cfVAGHX.jpg"
+      },
+      {
             "name": "Nasus",
             "hp": 561,
             "hp_gain_per_lvl": 90,
@@ -1966,9 +2045,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/ueaREX3.jpg"
+      },
+      {
             "name": "Nautilus",
             "hp": 576,
             "hp_gain_per_lvl": 86,
@@ -1990,9 +2070,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/BBEfwAb.jpg"
+      },
+      {
             "name": "Neeko",
             "hp": 540,
             "hp_gain_per_lvl": 90,
@@ -2014,9 +2095,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/ORunyIU.jpg"
+      },
+      {
             "name": "Nidalee",
             "hp": 570,
             "hp_gain_per_lvl": 95,
@@ -2038,9 +2120,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/EsXpS6M.jpg"
+      },
+      {
             "name": "Nocturne",
             "hp": 585,
             "hp_gain_per_lvl": 85,
@@ -2062,9 +2145,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/JRiOKG5.jpg"
+      },
+      {
             "name": "Nunu&Willump",
             "hp": 540,
             "hp_gain_per_lvl": 82,
@@ -2086,9 +2170,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/vugYkIM.jpg"
+      },
+      {
             "name": "Olaf",
             "hp": 575,
             "hp_gain_per_lvl": 100,
@@ -2110,9 +2195,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/l4CTwAN.jpg"
+      },
+      {
             "name": "Orianna",
             "hp": 530,
             "hp_gain_per_lvl": 91,
@@ -2134,9 +2220,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/l1HPoV9.jpg"
+      },
+      {
             "name": "Ornn",
             "hp": 590,
             "hp_gain_per_lvl": 95,
@@ -2158,9 +2245,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/B8XL5Dy.jpg"
+      },
+      {
             "name": "Pantheon",
             "hp": 580,
             "hp_gain_per_lvl": 95,
@@ -2182,9 +2270,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/qNIaonk.jpg"
+      },
+      {
             "name": "Poppy",
             "hp": 540,
             "hp_gain_per_lvl": 90,
@@ -2206,9 +2295,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/T2RSHHM.jpg"
+      },
+      {
             "name": "Pyke",
             "hp": 600,
             "hp_gain_per_lvl": 90,
@@ -2230,9 +2320,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/0bIhSAT.jpg"
+      },
+      {
             "name": "Qiyana",
             "hp": 520,
             "hp_gain_per_lvl": 110,
@@ -2254,9 +2345,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/rbD37pw.jpg"
+      },
+      {
             "name": "Quinn",
             "hp": 533,
             "hp_gain_per_lvl": 85,
@@ -2278,9 +2370,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/kCGcmjI.jpg"
+      },
+      {
             "name": "Rakan",
             "hp": 540,
             "hp_gain_per_lvl": 85,
@@ -2302,9 +2395,10 @@
             "range": 300,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/bXnHl8h.jpg"
+      },
+      {
             "name": "Rammus",
             "hp": 564,
             "hp_gain_per_lvl": 80,
@@ -2326,9 +2420,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/bXnHl8h.jpg"
+      },
+      {
             "name": "Rek'Sai",
             "hp": 570,
             "hp_gain_per_lvl": 85,
@@ -2350,9 +2445,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/53FXzZQ.jpg"
+      },
+      {
             "name": "Rell",
             "hp": 540,
             "hp_gain_per_lvl": 90,
@@ -2374,9 +2470,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/g52cTrA.jpg"
+      },
+      {
             "name": "Renekton",
             "hp": 590,
             "hp_gain_per_lvl": 92,
@@ -2398,9 +2495,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/RQrDAWv.jpg"
+      },
+      {
             "name": "Rengar",
             "hp": 585,
             "hp_gain_per_lvl": 90,
@@ -2422,9 +2520,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/hlFdcKt.jpg"
+      },
+      {
             "name": "Riven",
             "hp": 560,
             "hp_gain_per_lvl": 86,
@@ -2446,9 +2545,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/RzjTCei.jpg"
+      },
+      {
             "name": "Rumble",
             "hp": 589,
             "hp_gain_per_lvl": 85,
@@ -2470,9 +2570,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/Nsrh1n3.jpg"
+      },
+      {
             "name": "Ryze",
             "hp": 575,
             "hp_gain_per_lvl": 110,
@@ -2494,9 +2595,35 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/lwbCVWh.jpg"
+      },
+      {
+            "name": "reneta",
+            "hp": 525,
+            "hp_gain_per_lvl": 1885,
+            "hp_regen": 5.5,
+            "hp_regen_gain_per_lvl": 14.85,
+            "mana": 350,
+            "mana_gain_per_lvl": 1200,
+            "mana_regen": 11.5,
+            "mana_regen_gain_per_lvl": 20,
+            "attack_damage": 51,
+            "attack_damage_gain_per_lvl": 102,
+            "attack_speed": 0.625,
+            "attack_speed_gain_per_lvl": 2.5,
+            "armor": 29,
+            "armor_gain_per_lvl": 3.5,
+            "magic_resist": 30,
+            "magic_resist_gain_per_lvl": 0.5,
+            "movement_speed": 330,
+            "range": 550,
+            "ability_power": 0,
+            "ability_haste": 0,
+            "crit": 0,
+            "images": "https://imgur.com/K97VSrF.jpg"
+      },
+      {
             "name": "Samira",
             "hp": 530,
             "hp_gain_per_lvl": 88,
@@ -2518,9 +2645,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/B9Hn5Xy.jpg"
+      },
+      {
             "name": "Sejuani",
             "hp": 560,
             "hp_gain_per_lvl": 100,
@@ -2542,9 +2670,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/E6S5VKi.jpg"
+      },
+      {
             "name": "Senna",
             "hp": 520,
             "hp_gain_per_lvl": 75,
@@ -2566,9 +2695,10 @@
             "range": 600,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/chng5JW.jpg"
+      },
+      {
             "name": "Seraphine",
             "hp": 500,
             "hp_gain_per_lvl": 90,
@@ -2590,9 +2720,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/IDc0GW5.jpg"
+      },
+      {
             "name": "Sett",
             "hp": 600,
             "hp_gain_per_lvl": 93,
@@ -2614,9 +2745,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/OCnnlGE.jpg"
+      },
+      {
             "name": "Shaco",
             "hp": 560,
             "hp_gain_per_lvl": 89,
@@ -2638,9 +2770,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/4hyMlwZ.jpg"
+      },
+      {
             "name": "Shen",
             "hp": 540,
             "hp_gain_per_lvl": 85,
@@ -2662,9 +2795,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/txNLDET.jpg"
+      },
+      {
             "name": "Shyvana",
             "hp": 595,
             "hp_gain_per_lvl": 95,
@@ -2686,9 +2820,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/7NcGEsk.jpg"
+      },
+      {
             "name": "Singed",
             "hp": 580,
             "hp_gain_per_lvl": 85,
@@ -2710,9 +2845,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/tz1dAbi.jpg"
+      },
+      {
             "name": "Sion",
             "hp": 545,
             "hp_gain_per_lvl": 73,
@@ -2734,9 +2870,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/SY80M06.jpg"
+      },
+      {
             "name": "Sivir",
             "hp": 562,
             "hp_gain_per_lvl": 90,
@@ -2758,9 +2895,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/HXZp6HL.jpg"
+      },
+      {
             "name": "Skarner",
             "hp": 580,
             "hp_gain_per_lvl": 85,
@@ -2782,9 +2920,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/KCD39DV.jpg"
+      },
+      {
             "name": "Sona",
             "hp": 480,
             "hp_gain_per_lvl": 77,
@@ -2806,9 +2945,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/jcwbLMu.jpg"
+      },
+      {
             "name": "Soraka",
             "hp": 535,
             "hp_gain_per_lvl": 74,
@@ -2830,9 +2970,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/imSCQLc.jpg"
+      },
+      {
             "name": "Swain",
             "hp": 525,
             "hp_gain_per_lvl": 85,
@@ -2854,9 +2995,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/Zl8PHou.jpg"
+      },
+      {
             "name": "Sylas",
             "hp": 525,
             "hp_gain_per_lvl": 115,
@@ -2878,9 +3020,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/0jQNxDw.jpg"
+      },
+      {
             "name": "Syndra",
             "hp": 523,
             "hp_gain_per_lvl": 90,
@@ -2902,9 +3045,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/YqQos3Q.jpg"
+      },
+      {
             "name": "TahmKench",
             "hp": 570,
             "hp_gain_per_lvl": 95,
@@ -2926,9 +3070,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/3bjeGbW.jpg"
+      },
+      {
             "name": "Taliyah",
             "hp": 532,
             "hp_gain_per_lvl": 90,
@@ -2950,9 +3095,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/bXCoTiF.jpg"
+      },
+      {
             "name": "Talon",
             "hp": 588,
             "hp_gain_per_lvl": 95,
@@ -2974,9 +3120,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/85wIKBn.jpg"
+      },
+      {
             "name": "Taric",
             "hp": 575,
             "hp_gain_per_lvl": 85,
@@ -2998,9 +3145,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/JIwlG1B.jpg"
+      },
+      {
             "name": "Teemo",
             "hp": 528,
             "hp_gain_per_lvl": 90,
@@ -3022,9 +3170,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/AECP0nu.jpg"
+      },
+      {
             "name": "Thresh",
             "hp": 530,
             "hp_gain_per_lvl": 95,
@@ -3046,9 +3195,10 @@
             "range": 450,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/FO7fdHo.jpg"
+      },
+      {
             "name": "Tristana",
             "hp": 559,
             "hp_gain_per_lvl": 88,
@@ -3070,9 +3220,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/vJSKvgo.jpg"
+      },
+      {
             "name": "Trundle",
             "hp": 616,
             "hp_gain_per_lvl": 96,
@@ -3094,9 +3245,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/xjxkgXL.jpg"
+      },
+      {
             "name": "Tryndamere",
             "hp": 626,
             "hp_gain_per_lvl": 98,
@@ -3118,9 +3270,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/pb8aWow.jpg"
+      },
+      {
             "name": "TwistedFate",
             "hp": 534,
             "hp_gain_per_lvl": 94,
@@ -3142,9 +3295,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/4rjZHu0.jpg"
+      },
+      {
             "name": "Twitch",
             "hp": 612,
             "hp_gain_per_lvl": 86,
@@ -3166,9 +3320,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/MLSqpAr.jpg"
+      },
+      {
             "name": "Udyr",
             "hp": 594,
             "hp_gain_per_lvl": 92,
@@ -3190,9 +3345,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/l9FcOMg.jpg"
+      },
+      {
             "name": "Urgot",
             "hp": 585,
             "hp_gain_per_lvl": 88,
@@ -3214,9 +3370,10 @@
             "range": 350,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/hTq0DEJ.jpg"
+      },
+      {
             "name": "Varus",
             "hp": 530,
             "hp_gain_per_lvl": 91,
@@ -3238,9 +3395,10 @@
             "range": 575,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/RVJy91V.jpg"
+      },
+      {
             "name": "Vayne",
             "hp": 515,
             "hp_gain_per_lvl": 89,
@@ -3262,9 +3420,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/L3UV0hf.jpg"
+      },
+      {
             "name": "Veigar",
             "hp": 505,
             "hp_gain_per_lvl": 94,
@@ -3286,9 +3445,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/u1h6cNv.jpg"
+      },
+      {
             "name": "Vel'Koz",
             "hp": 520,
             "hp_gain_per_lvl": 88,
@@ -3310,9 +3470,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/k1WcDR8.jpg"
+      },
+      {
             "name": "Vex",
             "hp": 520,
             "hp_gain_per_lvl": 90,
@@ -3334,9 +3495,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/mInVMon.jpg"
+      },
+      {
             "name": "Vi",
             "hp": 585,
             "hp_gain_per_lvl": 85,
@@ -3358,9 +3520,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/PqmJVpU.jpg"
+      },
+      {
             "name": "Viego",
             "hp": 560,
             "hp_gain_per_lvl": 95,
@@ -3382,9 +3545,10 @@
             "range": 200,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/xsIjvtD.jpg"
+      },
+      {
             "name": "Viktor",
             "hp": 530,
             "hp_gain_per_lvl": 90,
@@ -3406,9 +3570,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/z9bWwK3.jpg"
+      },
+      {
             "name": "Vladimir",
             "hp": 537,
             "hp_gain_per_lvl": 96,
@@ -3430,9 +3595,10 @@
             "range": 450,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/P26ZdRn.jpg"
+      },
+      {
             "name": "Volibear",
             "hp": 580,
             "hp_gain_per_lvl": 90,
@@ -3454,9 +3620,10 @@
             "range": 150,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/ooJDvPl.jpg"
+      },
+      {
             "name": "Warwick",
             "hp": 550,
             "hp_gain_per_lvl": 85,
@@ -3478,9 +3645,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/NCV4EL7.jpg"
+      },
+      {
             "name": "Wukong",
             "hp": 540,
             "hp_gain_per_lvl": 85,
@@ -3502,9 +3670,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/AK6DEqG.jpg"
+      },
+      {
             "name": "Xayah",
             "hp": 590,
             "hp_gain_per_lvl": 88,
@@ -3526,9 +3695,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/65lmjxC.jpg"
+      },
+      {
             "name": "Xerath",
             "hp": 526,
             "hp_gain_per_lvl": 92,
@@ -3550,9 +3720,10 @@
             "range": 525,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/SLo7QWF.jpg"
+      },
+      {
             "name": "XinZhao",
             "hp": 570,
             "hp_gain_per_lvl": 92,
@@ -3574,9 +3745,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/Hzni1Ek.jpg"
+      },
+      {
             "name": "Yasuo",
             "hp": 490,
             "hp_gain_per_lvl": 87,
@@ -3598,9 +3770,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/S00GSYs.jpg"
+      },
+      {
             "name": "Yone",
             "hp": 550,
             "hp_gain_per_lvl": 85,
@@ -3622,9 +3795,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/dX1YlR8.jpg"
+      },
+      {
             "name": "Yorick",
             "hp": 580,
             "hp_gain_per_lvl": 100,
@@ -3646,9 +3820,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/INHCMa3.jpg"
+      },
+      {
             "name": "Yuumi",
             "hp": 480,
             "hp_gain_per_lvl": 70,
@@ -3670,9 +3845,10 @@
             "range": 500,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/Rul26Me.jpg"
+      },
+      {
             "name": "Zac",
             "hp": 615,
             "hp_gain_per_lvl": 95,
@@ -3694,9 +3870,10 @@
             "range": 175,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/MSTnJVs.jpg"
+      },
+      {
             "name": "Zed",
             "hp": 584,
             "hp_gain_per_lvl": 85,
@@ -3718,9 +3895,10 @@
             "range": 125,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/bQ0JMf7.jpg"
+      },
+      {
             "name": "Ziggs",
             "hp": 536,
             "hp_gain_per_lvl": 92,
@@ -3742,9 +3920,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/bDYzlBW.jpg"
+      },
+      {
             "name": "Zilean",
             "hp": 504,
             "hp_gain_per_lvl": 82,
@@ -3766,9 +3945,10 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        },
-        {
+            "crit": 0,
+            "images": "https://imgur.com/B80JmxK.jpg"
+      },
+      {
             "name": "Zoe",
             "hp": 560,
             "hp_gain_per_lvl": 92,
@@ -3790,6 +3970,32 @@
             "range": 550,
             "ability_power": 0,
             "ability_haste": 0,
-            "crit": 0
-        }
+            "crit": 0,
+            "images": "https://imgur.com/ZmfyV09s.jpg"
+      },
+      {
+            "name": "zeri",
+            "hp": 500,
+            "hp_gain_per_lvl": 1945,
+            "hp_regen": 3.25,
+            "hp_regen_gain_per_lvl": 12.6,
+            "mana": 250,
+            "mana_gain_per_lvl": 1050,
+            "mana_regen": 6,
+            "mana_regen_gain_per_lvl": 19.6,
+            "attack_damage": 58,
+            "attack_damage_gain_per_lvl": 92,
+            "attack_speed": 0.625,
+            "attack_speed_gain_per_lvl": 2.5,
+            "armor": 23,
+            "armor_gain_per_lvl": 3.5,
+            "magic_resist": 30,
+            "magic_resist_gain_per_lvl": 0.5,
+            "movement_speed": 325,
+            "range": 500,
+            "ability_power": 0,
+            "ability_haste": 0,
+            "crit": 0,
+            "images": "https://imgur.com/aapY1OK.jpg"
+      }
 ]
